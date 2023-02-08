@@ -2553,4 +2553,15 @@ a:hover {
 .card-title {
   font-weight: bold;
   text-align: center;
-} 
+}
+
+.container .course__free span {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+
+.container .course__free span:hover {
+  text-decoration: underline;
+
+}
